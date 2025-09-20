@@ -1,4 +1,0 @@
-`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
-
-const API_KEY = "e7bdce96c739023a6df01df3fd170eea";
-const city = "lahore"
